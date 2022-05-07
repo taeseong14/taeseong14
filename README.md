@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github Stat](https://github-readme-stats.vercel.app/api?username=taeseong14&show_icons=true&icon_color=FFFFFF&hide=issues,contribs&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,F9BE43,#F99331)](https://github.com/taeseong14/taeseong14)
+[![Github Stat](https://github-readme-stats.vercel.app/api?username=taeseong14&show_icons=true&icon_color=FFFFFF&hide=issues,contribs&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=180deg,F9BE43,F99331)](https://github.com/taeseong14/taeseong14)
 
 ### Using
 <a><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
