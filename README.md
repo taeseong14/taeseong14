@@ -12,4 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeseong14&layout=compact)](https://github.com/taeseong14/taeseong14)
 
 ### BOJ / SolvedAC
-[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeseong14)](https://solved.ac/profile/taeseong14)
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kts1016)](https://solved.ac/profile/kts1016)
