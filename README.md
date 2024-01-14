@@ -12,4 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeseong14&layout=compact)](https://github.com/taeseong14/taeseong14)
 
 ### BOJ / SolvedAC
-[![Solved.ac](https://camo.githubusercontent.com/0138eb3d2fa128e64b1d7b8f7371624028c4bc1b1e3abed1e21d73dd979ae51b/687474703a2f2f6d617a617373756d6e6964612e7774662f6170692f76322f67656e65726174655f62616467653f626f6a3d6b747331303136)](https://solved.ac/profile/kts1016)
+[![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeseong14)](https://solved.ac/profile/taeseong14)
